@@ -1,3 +1,30 @@
 page-home {
+   
+    ion-input [placeholder] {
+        text-align: center;
+    }
 
+     h1 {
+        text-align: center;
+        color: #800000;
+     }
+     
+     .down {
+        width: 50%;
+        color : black;
+     }
+     p {
+         font-size: 17px;
+         text-align: center;
+     }
+     .button {
+       background:	#D3D3D3;
+       color: black;
+     }
+
+     ion-checkbox {
+        background:#800000;
+     }
+
+     
 }
